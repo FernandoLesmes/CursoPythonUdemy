@@ -13,3 +13,4 @@ def  numero ():
 
 numero()
 print (lista)
+
